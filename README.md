@@ -10,4 +10,4 @@ footprint'ы - часть была нарисована внутри альти�
 Размерность 78мм x 62мм. (Запас для уменьшения имеется).
 Для распиновки использовались клеммники.  
 
-![Screnshot](https://github.com/Fang-engin18/STM32---Blue-pill/blob/main/top_lut.pdf)
+![Screenshot](https://github.com/Fang-engin18/STM32---Blue-pill/blob/main/top_lut.pdf)
