@@ -1,5 +1,5 @@
-# STM32
- Создание STM32 в Altium Designer под ЛУТ
+# Bluepill_STM32
+ Создание Bluepill_STM32 в Altium Designer под ЛУТ
 
 Была создана задача, подобрать собственные элементы и полностью сделать плату STM32.
 
